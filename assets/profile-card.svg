@@ -1,0 +1,128 @@
+<svg width="750" height="420" viewBox="0 0 750 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="750" height="420" rx="20" fill="#0d1117"/>
+
+<rect x="20" y="20" width="710" height="380" rx="15" fill="#161b22" stroke="#30363d"/>
+
+<!-- Header -->
+<circle cx="60" cy="60" r="15" fill="#ff5f56"/>
+<circle cx="100" cy="60" r="15" fill="#ffbd2e"/>
+<circle cx="140" cy="60" r="15" fill="#27c93f"/>
+
+<text x="210" y="70"
+font-family="monospace"
+font-size="24"
+fill="#58a6ff">
+YOSAN.DEV // v2026.1
+</text>
+
+
+<!-- Code -->
+
+<text x="50" y="120"
+font-family="monospace"
+font-size="18"
+fill="#8b949e">
+const engineer = {
+</text>
+
+
+<text x="80" y="155"
+font-family="monospace"
+font-size="18"
+fill="#79c0ff">
+name:
+</text>
+
+<text x="190" y="155"
+font-family="monospace"
+font-size="18"
+fill="#a5d6ff">
+"Yosan Gonfa",
+</text>
+
+
+<text x="80" y="190"
+font-family="monospace"
+font-size="18"
+fill="#79c0ff">
+role:
+</text>
+
+<text x="190" y="190"
+font-family="monospace"
+font-size="18"
+fill="#a5d6ff">
+"Full-Stack Web Developer",
+</text>
+
+
+<text x="80" y="225"
+font-family="monospace"
+font-size="18"
+fill="#79c0ff">
+education:
+</text>
+
+<text x="250" y="225"
+font-family="monospace"
+font-size="18"
+fill="#a5d6ff">
+"Software Engineering Student",
+</text>
+
+
+<text x="80" y="260"
+font-family="monospace"
+font-size="18"
+fill="#79c0ff">
+location:
+</text>
+
+<text x="230" y="260"
+font-family="monospace"
+font-size="18"
+fill="#a5d6ff">
+"Addis Ababa, Ethiopia 🇪🇹",
+</text>
+
+
+<text x="80" y="305"
+font-family="monospace"
+font-size="18"
+fill="#79c0ff">
+stack:
+</text>
+
+<text x="180" y="305"
+font-family="monospace"
+font-size="18"
+fill="#a5d6ff">
+["React","Node.js","MongoDB"],
+</text>
+
+
+<text x="80" y="340"
+font-family="monospace"
+font-size="18"
+fill="#79c0ff">
+building:
+</text>
+
+<text x="220" y="340"
+font-family="monospace"
+font-size="18"
+fill="#a5d6ff">
+"ESCDC Platform",
+</text>
+
+
+<text x="50" y="380"
+font-family="monospace"
+font-size="18"
+fill="#7ee787">
+available: true;
+</text>
+
+
+</svg>
