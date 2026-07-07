@@ -18,7 +18,7 @@
 
 ```javascript
 const developer = {
-    name: "Genenus Eshetu",
+    name: "YOSAN GONFA",
     role: "Full-Stack Web Developer",
     education: "Software Engineering Student",
     location: "Addis Ababa, Ethiopia 🇪🇹",
@@ -36,6 +36,7 @@ const developer = {
         "Node.js",
         "Express.js",
         "PHP",
+        "springboot"
         "Laravel"
     ],
 
