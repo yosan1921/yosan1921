@@ -3,6 +3,9 @@
 # 👋 Hi, I'm YOSAN GONFA
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Software+Engineering+Student;React+%7C+Node.js+%7C+Express.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+<p align="center">
+  <img src="assets/profile-card.svg" width="750">
+</p>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=yosan1921&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
